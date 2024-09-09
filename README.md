@@ -1,2 +1,2 @@
-# estatigraf-as
-Probando distintos tipos de gráficos estatigráficos
+# estatigrafia
+Probando distintos tipos de gráficos estatigráficos para ser una opcion paralela a SedLog
